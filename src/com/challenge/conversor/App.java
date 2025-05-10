@@ -1,4 +1,4 @@
-package com.guillermo.conversor;
+package com.challenge.conversor;
 
 
 public class App {
