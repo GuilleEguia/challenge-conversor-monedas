@@ -24,7 +24,7 @@ public class MenuService {
     public void showMenu() {
         String option;
         do {
-            System.out.println(menu);
+            System.out.print(menu);
             option = scanner.nextLine();
 
             if (!option.equals("7")) {
